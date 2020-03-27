@@ -16,7 +16,7 @@
     "build": "babel src --out-dir lib  --source-maps-inline"
   },
   "devDependencies": {
-    "babel": "5.8.23"
+    "babel": "6.23.0"
   },
   "repository": {
     "type": "git",
